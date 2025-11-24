@@ -1,6 +1,6 @@
 # 🩺 X-Ray Medical AI Assistant  
 Full‑Stack Web App for Chest X‑Ray Analysis + Report Summaries
-
+<img src="./assets/demo.gif" width="750"/>
 This project is an end‑to‑end medical AI system featuring:
 - Deep learning–based X‑ray analysis  
 - Automatic medical report generation  
