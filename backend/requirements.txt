@@ -1,0 +1,13 @@
+flask
+flask-cors
+pillow
+tensorflow
+keras
+torch
+torchvision
+transformers
+pandas
+numpy
+matplotlib
+scikit-learn
+pypdf2
