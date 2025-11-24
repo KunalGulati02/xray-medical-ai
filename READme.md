@@ -42,8 +42,6 @@ npm install
 npm run dev
 ```
 
-## 🎥 Demo
-Place demo.mp4 under /demo/
 
 ## 🧠 Tech Stack
 AI: TensorFlow, Keras  
